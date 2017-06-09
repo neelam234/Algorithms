@@ -30,23 +30,3 @@ print count
 stop_time= time.time()
 time_taken = stop_time - start_time
 print time_taken
-
-
-
-
-     
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
